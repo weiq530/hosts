@@ -5,7 +5,7 @@
 
 －－－－－－－
 <h3> Hosts推荐</h3>
-<li><p><a href="https://github.com/racaljk/hosts" target="_blank"><font color="#4169E1" style="font-size: 18px;"><b>racaljk</b></font></a><br>AdAway源（外网重定向）：<a href="https://raw.githubusercontent.com/racaljk/hosts/master/hosts">https://raw.githubusercontent.com/racaljk/hosts/master/hosts</a></p>
+<li><p><a href="https://github.com/racaljk/hosts" target="_blank"><font color="#4169E1" style="font-size: 18px;"><b>racaljk</b></font></a>（外网重定向）<br>AdAway源：<a href="https://raw.githubusercontent.com/racaljk/hosts/master/hosts">https://raw.githubusercontent.com/racaljk/hosts/master/hosts</a></p>
 
 <li><p><a href="https://github.com/vokins/yhosts" target="_blank"><font color="#4169E1" style="font-size: 16px;"><b>vokins</b></font></a>（屏蔽国内主流广告）<br>AdAway源(完整数据)：<a href="https://raw.githubusercontent.com/vokins/yhosts/master/hosts">https://raw.githubusercontent.com/vokins/yhosts/master/hosts</a><br>AdAway源(基础数据)：：<a href="https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt">https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt</a><br>AdAway源(附加数据)：：<a href="https://raw.githubusercontent.com/vokins/yhosts/master/tvbox.txt">https://raw.githubusercontent.com/vokins/yhosts/master/tvbox.txt</a></p>
 
